@@ -1,7 +1,4 @@
-
-
-<?php
-
-echo "Under Construction..."
-
-?>
+<!DOCTYPE html>
+<html>
+Under Construction...
+</html>
